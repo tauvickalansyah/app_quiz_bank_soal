@@ -1,5 +1,6 @@
 // saya nanti mau tambahkan fitur inputan judul latihan soalnya, kelas dan mapelnya sehingga bisa nampil juga di halaman guru dan dihalaman siswa muncul judul latihan soalnya, kelas dan mapelnya muncul juga di bagian hasil skor yang di akhir beserta nama siswa juga tampil. dan tampilkan juga waktu selesai pengerjaan
 
+//deskripsi aplikasi ini: Aplikasi Latihan Soal Online berbasis Flutter Web ini dirancang untuk memudahkan guru dalam mengelola bank soal dan memantau hasil latihan siswa secara real-time. Guru dapat mengunggah soal melalui Google Sheets, sementara siswa dapat mengakses latihan melalui tautan atau QR code yang disediakan. Aplikasi ini mendukung mode layar penuh untuk mencegah kecurangan, serta menyimpan hasil latihan secara otomatis.
 
 
 import 'dart:async';
